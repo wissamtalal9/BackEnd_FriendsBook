@@ -1,0 +1,19 @@
+1 - npm init : first step to create package.json
+2 - npm i express nodemon : To install package-lock.json
+3 - app.js
+        - .../
+4 - nodemon app : if it's not working you must install it globally ( npm install -g nodemon)
+
+5 - go to the mongodb atlas make new projects and new cluster with IP Address 0.0.0.0
+
+
+Cluster - MongoDB :
+Username : talalwissam5
+Password : admin
+
+6 - npm i mongoose : install the library
+app.js -> const mongoose = require("mongoose");
+
+That's help you to uncrypted the Password
+
+7 - install npm i jsonwebtoken
